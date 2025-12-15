@@ -12,6 +12,6 @@ I'm a third year undergraduate student from [School of Science](https://science.
 
 I am very fortunate to be advised by [Prof. Congjun Wu](https://wucj.lab.westlake.edu.cn/) of Laboratory of Novel States of Matter and Their Organizational Principles from School of Science, Westlake University. 
 
-You can find my CV here: [Tianyi Zhang's Curriculum Vitae](../assets/Tianyi Zhang_Resume.pdf).
+You can find my CV here: [Tianyi Zhang's Curriculum Vitae](../assets/Tianyi_Zhang_Resume.pdf).
 
 [Email](zhangtianyi12@westlake.edu.cn) / [Github](https://github.com/Z-Ton-Y) / [Wechat](../images/wechat.jpg)
