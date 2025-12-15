@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Prof. Congjun Wu](https://wucj.lab.westlak
 
 You can find my CV here: [Tianyi Zhang's Curriculum Vitae](../assets/Tianyi_Zhang_Resume.pdf).
 
-[Email](zhangtianyi12@westlake.edu.cn) / [Github](https://github.com/Z-Ton-Y) / [Wechat](../images/wechat.jpg)
+[Email](mailto:zhangtianyi12@westlake.edu.cn) / [Github](https://github.com/Z-Ton-Y) / [Wechat](../images/wechat.jpg)
